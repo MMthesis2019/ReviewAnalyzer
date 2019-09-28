@@ -1,0 +1,16 @@
+.noun {
+    font-weight: bold;
+    color: blue;
+}
+
+.adjective {
+    font-weight: bold;
+}
+
+.positive {
+    color: LimeGreen;
+}
+
+.negative {
+    color: red;
+}

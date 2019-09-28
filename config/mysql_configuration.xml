@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <user>root</user>
+    <password>password</password>
+    <database>ReviewsDB5</database>
+    <host>localhost</host>
+    <charset>utf8mb4</charset>
+</config>
